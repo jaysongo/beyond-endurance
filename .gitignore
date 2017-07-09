@@ -1,1 +1,7 @@
 node_modules
+obj
+bin
+lib
+
+site.min.js
+site.min.css
