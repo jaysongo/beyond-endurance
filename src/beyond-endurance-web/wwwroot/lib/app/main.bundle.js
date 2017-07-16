@@ -21,7 +21,7 @@ module.exports = module.exports.toString();
 /***/ 139:
 /***/ (function(module, exports) {
 
-module.exports = "<h1>\n  {{title}}\n</h1>\n"
+module.exports = "<h1>\r\n  {{title}}\r\n</h1>\r\n"
 
 /***/ }),
 
@@ -83,7 +83,7 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 
 var AppComponent = (function () {
     function AppComponent() {
-        this.title = 'app works! yeah!';
+        this.title = 'app works! yeah!!';
     }
     return AppComponent;
 }());
